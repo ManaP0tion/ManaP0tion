@@ -25,3 +25,4 @@
         </td>
     </tr>
 </table>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aerodev)](https://solved.ac/aerodev/)
