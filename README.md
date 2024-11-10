@@ -25,7 +25,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaP0tion&layout=compact&langs_count=8&hide=makefile,cmake&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f" alt="Top Langs">
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=ManaP0tion&count_private=false&show_icons=true&rank_icon=github&theme=dracula&icon_color=3f3fff&title_color=ffffff&include_all_commits=true&bg_color=1f1f1f" alt="ManaP0tion's github stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=ManaP0tion&count_private=true&show_icons=true&rank_icon=github&theme=dracula&icon_color=3f3fff&title_color=ffffff&include_all_commits=true&bg_color=1f1f1f" alt="ManaP0tion's github stats">
         </td>
     </tr>
 </table>
