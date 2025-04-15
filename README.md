@@ -10,8 +10,6 @@
  	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManaP0tion%2FManaP0tion&count_bg=%2365BCFF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
-
 <table>
     <tr>
         <th align="center">
