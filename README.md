@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### 좋아하는 것과 필요하다고 생각하는 것을 개발하고 있습니다
 
 📚 Studying...
 <div align="left">
