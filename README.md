@@ -30,6 +30,7 @@
     </tr>
 </table>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aerodev)](https://solved.ac/aerodev)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ManaP0tion)](https://solved.ac/ManaP0tion)
+
 
 
